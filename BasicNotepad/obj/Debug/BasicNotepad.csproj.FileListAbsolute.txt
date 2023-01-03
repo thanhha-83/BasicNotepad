@@ -1,0 +1,11 @@
+D:\Projects\Training-CSharp\BasicNotepad\BasicNotepad\bin\Debug\BasicNotepad.exe.config
+D:\Projects\Training-CSharp\BasicNotepad\BasicNotepad\bin\Debug\BasicNotepad.exe
+D:\Projects\Training-CSharp\BasicNotepad\BasicNotepad\bin\Debug\BasicNotepad.pdb
+D:\Projects\Training-CSharp\BasicNotepad\BasicNotepad\obj\Debug\BasicNotepad.csproj.AssemblyReference.cache
+D:\Projects\Training-CSharp\BasicNotepad\BasicNotepad\obj\Debug\BasicNotepad.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Training-CSharp\BasicNotepad\BasicNotepad\obj\Debug\BasicNotepad.Form1.resources
+D:\Projects\Training-CSharp\BasicNotepad\BasicNotepad\obj\Debug\BasicNotepad.Properties.Resources.resources
+D:\Projects\Training-CSharp\BasicNotepad\BasicNotepad\obj\Debug\BasicNotepad.csproj.GenerateResource.cache
+D:\Projects\Training-CSharp\BasicNotepad\BasicNotepad\obj\Debug\BasicNotepad.csproj.CoreCompileInputs.cache
+D:\Projects\Training-CSharp\BasicNotepad\BasicNotepad\obj\Debug\BasicNotepad.exe
+D:\Projects\Training-CSharp\BasicNotepad\BasicNotepad\obj\Debug\BasicNotepad.pdb

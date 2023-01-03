@@ -1,0 +1,11 @@
+D:\Projects\Training-CSharp\TestComponent\TestComponent\bin\Debug\TestComponent.exe.config
+D:\Projects\Training-CSharp\TestComponent\TestComponent\bin\Debug\TestComponent.exe
+D:\Projects\Training-CSharp\TestComponent\TestComponent\bin\Debug\TestComponent.pdb
+D:\Projects\Training-CSharp\TestComponent\TestComponent\obj\Debug\TestComponent.csproj.AssemblyReference.cache
+D:\Projects\Training-CSharp\TestComponent\TestComponent\obj\Debug\TestComponent.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Training-CSharp\TestComponent\TestComponent\obj\Debug\TestComponent.Form1.resources
+D:\Projects\Training-CSharp\TestComponent\TestComponent\obj\Debug\TestComponent.Properties.Resources.resources
+D:\Projects\Training-CSharp\TestComponent\TestComponent\obj\Debug\TestComponent.csproj.GenerateResource.cache
+D:\Projects\Training-CSharp\TestComponent\TestComponent\obj\Debug\TestComponent.csproj.CoreCompileInputs.cache
+D:\Projects\Training-CSharp\TestComponent\TestComponent\obj\Debug\TestComponent.exe
+D:\Projects\Training-CSharp\TestComponent\TestComponent\obj\Debug\TestComponent.pdb
